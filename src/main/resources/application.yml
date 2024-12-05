@@ -1,0 +1,6 @@
+encryption:
+  algorithm: AES/CTR/NoPadding
+
+springdoc:
+  swagger-ui:
+    path: /
